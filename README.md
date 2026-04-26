@@ -9,7 +9,7 @@
 * [megmost-stack/mvn-releasing](https://github.com/megmost-stack/mvn-releasing)
 
 ### 2. Programming Languages:
-  * #### Java
+  * #### Java/Jakarta(JEE)
     * [megmost-stack/OracleCertifiedPro](https://github.com/megmost-stack/OracleCertifiedPro) - Java Oracle Certified Training 
  
   * #### Groovy
@@ -21,6 +21,15 @@
   * #### Python
     
 ### 4. Developing with Spring Frameworks
+* [megmost-stack/spring-mvc-rest](https://github.com/megmost-stack/spring-mvc-rest)
+* [megmost-stack/spring-cloud-gateway](https://github.com/megmost-stack/spring-cloud-gateway)
+* [megmost-stack/security-auth-filter-chain](https://github.com/megmost-stack/security-auth-filter-chain)
+* [megmost-stack/spring-security-review](https://github.com/megmost-stack/spring-security-review)
+* [megmost-stack/spring-data-rest-template-client](https://github.com/megmost-stack/spring-data-rest-template-client)
+* [megmost-stack/auth-server](https://github.com/megmost-stack/auth-server)
+* [megmost-stack/spring-data-rest-drinks_retail](https://github.com/megmost-stack/spring-data-rest-drinks_retail)
+* [megmost-stack/di-context](https://github.com/megmost-stack/di-context)
+* [megmost-stack/diexample](https://github.com/megmost-stack/diexample)
 
 ### 5. CI/CD with Jenkins, nexus etc.
 
