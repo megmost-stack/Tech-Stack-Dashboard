@@ -10,7 +10,8 @@
 
 ### 2. Programming Languages:
   * #### Java/Jakarta(JEE)
-    * [megmost-stack/OracleCertifiedPro](https://github.com/megmost-stack/OracleCertifiedPro) - Java Oracle Certified Training 
+    * [megmost-stack/OracleCertifiedPro](https://github.com/megmost-stack/OracleCertifiedPro) - Java Oracle Certified Training
+    * [megmost-stack/reaktive-guru](https://github.com/megmost-stack/reaktive-guru)
  
   * #### Groovy
     
@@ -21,6 +22,8 @@
   * #### Python
     
 ### 4. Developing with Spring Frameworks
+* [megmost-stack/spring-reactive](https://github.com/megmost-stack/spring-reactive)
+* [megmost-stack/spring-security-deepdive](https://github.com/megmost-stack/spring-security-deepdive)
 * [megmost-stack/springmvc-drinks-composek8s](https://github.com/megmost-stack/springmvc-drinks-composek8s)
 * [megmost-stack/drinks-api-data](https://github.com/megmost-stack/drinks-api-data)
 * [megmost-stack/spring-mvc-rest](https://github.com/megmost-stack/spring-mvc-rest)
