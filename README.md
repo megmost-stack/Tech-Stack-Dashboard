@@ -22,7 +22,9 @@
   * #### Python
     
 ### 4. Developing with Spring Frameworks
+* [megmost-stack/webclient](https://github.com/megmost-stack/webclient)
 * [megmost-stack/spring-reactive](https://github.com/megmost-stack/spring-reactive)
+* [megmost-stack/reaktive-guru](https://github.com/megmost-stack/reaktive-guru)
 * [megmost-stack/spring-security-deepdive](https://github.com/megmost-stack/spring-security-deepdive)
 * [megmost-stack/springmvc-drinks-composek8s](https://github.com/megmost-stack/springmvc-drinks-composek8s)
 * [megmost-stack/drinks-api-data](https://github.com/megmost-stack/drinks-api-data)
@@ -62,3 +64,7 @@
 * [megmost-stack/helm-charts](https://github.com/megmost-stack/helm-charts)
 
 ### 10. AI
+* [megmost-stack/ai-demo](https://github.com/megmost-stack/ai-demo)
+* [megmost-stack/ai-engineering](https://github.com/megmost-stack/ai-engineering)
+* [megmost-stack/mcp-engineering-client](https://github.com/megmost-stack/mcp-engineering-client)
+* [megmost-stack/mcp-engineering-server](https://github.com/megmost-stack/mcp-engineering-server)
