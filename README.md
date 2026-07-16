@@ -10,8 +10,8 @@
 
 ### 2. Programming Languages:
   * #### Java/Jakarta(JEE)
-    * [megmost-stack/OracleCertifiedPro](https://github.com/megmost-stack/OracleCertifiedPro) - Java Oracle Certified Training
-    * [megmost-stack/reaktive-guru](https://github.com/megmost-stack/reaktive-guru)
+    * [Java OracleCertifiedPro](https://github.com/megmost-stack/OracleCertifiedPro) - Java Oracle Certified Training
+    * [Java Reactive](https://github.com/megmost-stack/reaktive-guru)
  
   * #### Groovy
     
