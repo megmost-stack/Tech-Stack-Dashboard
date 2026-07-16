@@ -64,7 +64,8 @@
 * [megmost-stack/helm-charts](https://github.com/megmost-stack/helm-charts)
 
 ### 10. AI
-* [megmost-stack/ai-demo](https://github.com/megmost-stack/ai-demo)
-* [megmost-stack/ai-engineering](https://github.com/megmost-stack/ai-engineering)
-* [megmost-stack/mcp-engineering-client](https://github.com/megmost-stack/mcp-engineering-client)
-* [megmost-stack/mcp-engineering-server](https://github.com/megmost-stack/mcp-engineering-server)
+* [Spring AI App](https://github.com/megmost-stack/ai-demo)
+* [SPring AI Naive, Advanced & Modular RAG](https://github.com/megmost-stack/ai-engineering)
+* [spring AI & MCP Client](https://github.com/megmost-stack/mcp-engineering-client)
+* [MCP-Server](https://github.com/megmost-stack/mcp-engineering-server)
+* [Spring AI Testing with Evaluator](https://github.com/megmost-stack/ai-evaluator-demo)
